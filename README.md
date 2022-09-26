@@ -1,0 +1,1 @@
+# cp-schema-registry
